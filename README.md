@@ -13,10 +13,10 @@ This project demonstrates a simple End-to-End Encryption simulation using XOR lo
 - XOR-based encryption and decryption
 - Simple 3-phase communication model
 
-## Technologies Used
+##  Technologies Used
 - Python
 - Random module
 - Bitwise XOR operator (^)
 
-## Disclaimer
-This project is for educational purposes only.
+##  Disclaimer
+ This project is for educational purposes only.
